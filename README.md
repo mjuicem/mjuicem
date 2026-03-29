@@ -17,7 +17,6 @@
 ### 📫 Contact Me
 
 - **Email**: [linjunming@bupt.edu.cn](mailto:linjunming@bupt.edu.cn)
-- **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=tky5jV0AAAAJ)
 - **WeChat**: linjunming1007
 
 <div align="center">

@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mjuicem/mjuicem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Junming Lin 👋
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=650&lines=Exploring++Multimodal+Intelligence.)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 About Me
+
+- 📚 **Research Interests**:
+  - Multimodal Large Language Models
+  - Reinforcement Learning
+  - World Models
+
+---
+
+### 📫 Contact Me
+
+- **Email**: [linjunming@bupt.edu.cn](mailto:linjunming@bupt.edu.cn)
+- **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=tky5jV0AAAAJ)
+- **WeChat**: linjunming1007
+
+---
+
+<div align="center">
+
+</div>

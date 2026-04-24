@@ -12,7 +12,8 @@
   - Multimodal Large Language Models
   - Reinforcement Learning
   - World Models
-
+- ✨ **Experience**:
+  - Intern at Qwen Team, Alibaba Group
 
 ### 📫 Contact Me
 

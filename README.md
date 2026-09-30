@@ -9,9 +9,8 @@
 ### 🌟 About Me
 
 - 📚 **Research Interests**:
+  - Reinforcement Learning, Agentic RL(🌟)
   - Multimodal Large Language Models
-  - Reinforcement Learning
-  - World Models
 - ✨ **Experience**:
   - Intern at Qwen Team, Alibaba Group
 

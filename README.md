@@ -16,7 +16,7 @@
 
 ### 📫 Contact Me
 
-- **Email**: [linjunming@bupt.edu.cn](mailto:linjunming@bupt.edu.cn)
+- **Email**: [lin-jm26@mails.tsinghua.edu.cn](lin-jm26@mails.tsinghua.edu.cn)
 - **WeChat**: linjunming1007
 
 <div align="center">
